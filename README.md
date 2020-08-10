@@ -1,9 +1,1 @@
-CTO @Rocketseat.
-
-Twitter Badge Linkedin Badge Gmail Badge
-
-Enthusiast of the best web & mobile development technologies.
-
-Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
-
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+[![Twitter Badge](https://img.shields.io/badge/-@slooock-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/slooock)](https://twitter.com/slooock) 
